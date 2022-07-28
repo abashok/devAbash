@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b358bc7a-a084-63ff-679d-82f685e94445",
+    "Name": "DevAbylJuly",
+    "ModifiedOnUtc": "\/Date(1658942918000)\/",
+    "Maintainer": "KarTel",
+    "DependsOn": [
+      {
+        "UId": "5664cf1d-0a9c-5d98-c54b-d716b14cd743",
+        "Name": "KtDetails"
+      }
+    ]
+  }
+}
